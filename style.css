@@ -12,7 +12,6 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background:  url(1_tjHTmF_1SUY6_pykU6_VpQ.gif);
     background:  url(fotos/img.jpg);
     background-size: cover;
     background-position: center;
@@ -26,7 +25,7 @@ body {
         color: #fff;
         padding: 30px 40px;
         box-shadow: 0 0 10px rgba(0, 0, 0, .2);
-        background-filter: blur(120px);
+         background-filter: blur(120px);
 }
 
 .container h1 {
